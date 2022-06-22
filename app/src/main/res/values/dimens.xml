@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_title_size">@dimen/_15ssp</dimen>
+    <dimen name="txt_size">@dimen/_11ssp</dimen>
+    <dimen name="txt_size_10">@dimen/_10ssp</dimen>
+    <dimen name="items_corner">12dp</dimen>
+</resources>
